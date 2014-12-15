@@ -1,3 +1,6 @@
+//Diese Datei ist auf github zu finden: https://github.com/lackichris/EvS_09/blob/master/README_EXERCISE3.md
+
+
 Zusammenfassung von „Continous Integration“ 
 =============
 Quelle:[link](http://www.thoughtworks.com/continuous-integration)
